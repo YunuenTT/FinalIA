@@ -4,3 +4,4 @@
 Proyecto Final para la clase Inteligencia Artificial.
 
 Aqui encontrara los notebooks donde se estuvo trabajandoy los datasets que se crearon. 
+Video de Youtube: https://www.youtube.com/watch?v=krKhuGL1k58
